@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://crissyarp.github.io/.github/sublimemerge">
+<a href="https://amapolalavi.github.io/.github/sublimemerge">
 <img src="https://img.shields.io/badge/GET_Sublime_Merge-darkgreen?style=for-the-badge&logo=apple" alt="GET Sublime Merge">
 </a>
 </div>
